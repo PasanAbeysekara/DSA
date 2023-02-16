@@ -1,0 +1,10 @@
+Basic Data Structures: 
+-> Arrays
+-> LinkedLists
+-> Queues
+-> Stacks
+-> Hash Tables
+
+Trees: 
+-> Binary Search Trees
+-> Balanced Trees

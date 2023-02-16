@@ -1,0 +1,35 @@
+/******************************************************************************
+
+. Adjacency List 
+
+*******************************************************************************/
+
+#include <iostream>
+#include <list>
+
+using namespace std;
+
+
+int main()
+{
+    // no of vertices 'n'
+    int n;cin>>n;
+    
+    // graph list 
+    list<int> graph[n];
+
+    // no of edges 'e'
+    for(int i=0;i<e;i++){
+        
+        int a,b;cin>>a>>b;
+        
+        // add connection to vertices
+        graph[a].push_back(b);
+        graph[b].push_back(a);
+    }
+    // CONDITION :- vertices 0-n indexing
+    
+    
+    
+    return 0;
+}
